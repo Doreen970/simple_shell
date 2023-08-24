@@ -1,0 +1,38 @@
+.\" Man page for simple shell.
+
+.SH NAME
+.B simple_shell
+- Man page for simple shell project
+
+.SH SYNOPSIS
+.B ./hsh
+
+.SH DESCRIPTION
+A project to come up with a simple shell terminal to check understanding of C concepts
+
+.SH COMMAND
+pwd: Shows the path of the folder where you're currently at.
+ls: Shows or list the contents of a folder.
+cp: copy a file to another folder or directory.
+rm: Delete files.
+sh, bash: Interpreters of commands.
+mkdir: Create a folder.
+rmdir: Delete a folder
+sleep: "Sleep" system/machine during the seconds you indicate.
+touch: create a file.
+cat: Shows/list the contents of a file.
+echo: shows the content of what you indicate.
+kernelversion: shows the kernel version
+chgrp: Change a file group.
+kill: "Kill" a process.
+chmod: Change the permissions of a file.
+ln: Create a link between files or folders.
+mv: Move a file to another folder or directory.
+chown: Change the user of a file.
+
+
+.SH BUGS
+No bugs.
+
+.SH AUTHORS
+Doreen Wanyama doreenwanyama20@gmail.com
